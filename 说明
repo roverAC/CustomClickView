@@ -1,0 +1,1 @@
+这是一款自定义的时钟控件，通过对View的onMeasure方法和onDraw方法的重写来实现的
